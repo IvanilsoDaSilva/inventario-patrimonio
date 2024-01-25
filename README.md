@@ -14,11 +14,11 @@
 
 <h2 align="right">1.1. INTRODUCTION 📰</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae turpis massa sed elementum tempus. Arcu dictum varius duis at consectetur. Amet consectetur adipiscing elit ut aliquam purus sit. Sed faucibus turpis in eu mi. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Integer malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Sed cras ornare arcu dui. Suspendisse interdum consectetur libero id faucibus nisl. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Id interdum velit laoreet id donec. Tincidunt praesent semper feugiat nibh. Commodo nulla facilisi nullam vehicula. Dignissim enim sit amet venenatis urna cursus. Tempus urna et pharetra pharetra massa. Euismod nisi porta lorem mollis aliquam ut. Urna condimentum mattis pellentesque id nibh tortor. Id faucibus nisl tincidunt eget nullam.
+Welcome to this repository dedicated to the development of an asset inventory system using Microsoft Access. This project is intended to offer a practical and efficient solution for the control and management of an organization's assets.
 
 <h2 align="right">1.2. DESCRIPTION 📝</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae turpis massa sed elementum tempus. Arcu dictum varius duis at consectetur. Amet consectetur adipiscing elit ut aliquam purus sit. Sed faucibus turpis in eu mi. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. A iaculis at erat pellentesque adipiscing commodo elit at imperdiet. Integer malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Sed cras ornare arcu dui. Suspendisse interdum consectetur libero id faucibus nisl. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Id interdum velit laoreet id donec. Tincidunt praesent semper feugiat nibh. Commodo nulla facilisi nullam vehicula. Dignissim enim sit amet venenatis urna cursus. Tempus urna et pharetra pharetra massa. Euismod nisi porta lorem mollis aliquam ut. Urna condimentum mattis pellentesque id nibh tortor. Id faucibus nisl tincidunt eget nullam
+This repository concentrates a project dedicated to the development of a Wealth Inventory System using the Microsoft Access platform. The central objective is to offer a comprehensive and user-friendly solution for organizations looking for effective control of their assets.
 
 <h2 align="right">1.3. TECHNOLOGIES 💻</h2>
 
@@ -27,50 +27,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <!-- cloud hosting and databases -->
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=FFFFFF&color=FF00FF)&nbsp; 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
   <!-- languages -->
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF&color=FF00FF)&nbsp; 
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=FF00FF)&nbsp; 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=FF00FF)&nbsp; 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
-  <!-- frameworks -->
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  
   <!-- softwares -->
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF&color=FF00FF)&nbsp;
-
-   <!-- more -->
-  [More...](https://github.com/Ileriayo/markdown-badges)
+  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
 </div>
 
 <h2 align="right" id="ponto1">1.4. HOW TO USE 💡</h2>
 <p align="right">Use the following commands (if there are commands) by <kbd>CTRL</kbd>+<kbd>V</kbd> in the terminal and/or console.</p>
 
-📌 CASE EXPLANATION 1
-```python
-code
-```
-
-📌 CASE EXPLANATION 2
-```java
-code
-```
-
-📌 CASE EXPLANATION 3
-```js
-code
-```
+📌 DOWNLOAD AND RUN
 
 <h2 align="right">1.5. OTHER REPOSITORIES 📘</h2>
 
