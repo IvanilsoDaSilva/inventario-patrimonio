@@ -30,9 +30,13 @@ This repository concentrates a project dedicated to the development of a Wealth 
   
   <!-- languages -->
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=FF00FF)&nbsp;
+
+  <!-- Frameworks -->
   
   <!-- softwares -->
   ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=FFFFFF&color=FF00FF)&nbsp;
+
+  <!-- Others -->
   
 </div>
 
